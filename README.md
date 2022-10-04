@@ -1,1 +1,1 @@
-# FlappyBird---LOVE2D
+# FlappyBird-LOVE2D
