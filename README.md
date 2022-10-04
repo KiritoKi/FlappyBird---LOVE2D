@@ -6,3 +6,11 @@
 	🚧  In Development:::Building...  🚧
 </h4>
 
+<h1 align="center">
+  <img alt="Menu" title="#Menu" src="./Screenshots/Menu.png" />
+</h1>
+
+
+<h1 align="center">
+  <img alt="GameOver" title="#GameOver" src="./Screenshots/GameOver.png" />
+</h1>
